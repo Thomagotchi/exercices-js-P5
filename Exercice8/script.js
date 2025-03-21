@@ -1,3 +1,8 @@
-//Votre code ici
+function add(a, b) {
+  a = Number(a);
+  b = Number(b);
 
- export default add;
+  return a + b;
+}
+
+export default add;
